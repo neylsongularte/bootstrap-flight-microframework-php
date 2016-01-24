@@ -1,4 +1,4 @@
-# Start Project's with Flight Microframework and Eloquent
+# Start Project's with Flight Microframework and Laravel Eloquent
 
 Clone the project and install dependencies with `composer install`
 
