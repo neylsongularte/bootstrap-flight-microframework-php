@@ -1,6 +1,4 @@
-# bootstrap-flight-microframework-php
-
-# Start Project's with Flight Microframework with Eloquent
+# Start Project's with Flight Microframework and Eloquent
 
 Clone the project and install dependencies with `composer install`
 
